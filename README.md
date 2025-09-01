@@ -7,7 +7,7 @@
 
 A modern, feature-packed Tetris game built with Python and Pygame, featuring beautiful neon graphics, multiple game modes, and advanced gameplay mechanics.
 
-![Tetris Game Demo](tetris-1.mp4)
+https://user-images.githubusercontent.com/MrManiesh/Tetris-pygame/main/tetris-1.mp4
 
 ## ✨ Features
 
